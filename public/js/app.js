@@ -1,4 +1,3 @@
-console.log("loading js to web-server")
 /*not working for me...
 fetch('http://puzzle.nead.io/puzzle').then((response) =>{
 	response.json().then((data) => {
